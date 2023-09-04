@@ -1,0 +1,23 @@
+.table{
+	display:flex;
+	justify-content: center;
+	align-items:center;
+	padding:2rem;
+}
+input {
+	margin-left:23%;
+	width:52%;
+	padding: 0.7rem;
+	border:2px solid skyblue;
+	border-radius:0.5rem;
+}
+td{
+	width:200px;
+	padding:1rem;
+}
+th{
+	padding: 1rem;
+}
+tr:hover{
+	background-color:skyblue;
+}
